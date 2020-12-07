@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-[![Nolan's github states](https://github-readme-stats.vercel.app/api?username=nbock&count_private=true&hide=&show_icons=true&theme=](http://nolanbock.com)
+[![Nolan's github states](https://github-readme-stats.vercel.app/api?username=nbock&count_private=true&hide=&show_icons=true&theme=)](http://nolanbock.com)
 
 
 <!--
