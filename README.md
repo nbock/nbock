@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Nolan's github states](https://github-readme-stats.vercel.app/api?username=nbock&count_private=true&hide=&show_icons=true&theme=](http://nolanbock.com)
 
 <!--
 **nbock/nbock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
